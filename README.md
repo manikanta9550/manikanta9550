@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Manikanta! 👋
 
-<!--
-**manikanta9550/manikanta9550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cybersecurity Student** and **Software Developer** passionate about building secure applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: C++, JavaScript, Python, Java, HTML, CSS
+- **Tools**: MySQL, Jenkins, Docker, Nmap, Wireshark, Metasploit
+- **Soft Skills**: Quick Learner, Problem-Solving, Team Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+### [Project Name](link-to-project)
+- **Description**: A brief description of what the project does.
+- **Technologies Used**: List of technologies.
+
+### [Another Project Name](link-to-project)
+- **Description**: A brief description of what the project does.
+- **Technologies Used**: List of technologies.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/manikantareddy31/)
+- [Email](mailto:manikantareddy1090@gmail.com)
+
