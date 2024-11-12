@@ -28,7 +28,7 @@ I'm a **Cybersecurity Student** and **Software Developer** passionate about buil
 
 ## 🌟 Projects
 
-### [Automating Port Scanning using CI/CD Pipeline](#)
+### [Automating Port Scanning using CI/CD Pipeline](https://github.com/manikanta9550/ip-and-port-scanner)
 - **Domain**: DevOps
 - **Technologies Used**: Docker, Jenkins
 - **Date**: Apr’24
