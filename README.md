@@ -71,7 +71,10 @@ I'm a **Cybersecurity Student** and **Software Developer** passionate about buil
 
 
 ## 📫 Contact Me
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/manikantareddy31/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/manikantareddy31/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:manikantareddy1090@gmail.com)
+
+
 
 
 
